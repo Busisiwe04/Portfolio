@@ -1,0 +1,84 @@
+{
+  "main": {
+    
+    "image": "busi.jpg",
+    "bio": "Artificial Intelligence enthusiast software developer.I enjoy using my obsessive attention to detail and my mission-driven work ethic to make things that will make a difference.My interests lie in solving problems by providing high-quality work.",
+    "phone": "+27 7829 32632",
+    "email": "bbuthelezi0402@gmail.com",
+    "address": {
+      "street": "P.O Box 701,",
+      "city": "Ulundi",
+      "zip": "3838"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1e2EQ83tnBIAs5LZyIMETHA8UoXJzvHCd/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/busisiwe-buthelezi-7837a21b3/",
+        "className": "fa fa-linkedin"
+      }
+      
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University of Zululand",
+        "degree": "BSc Applied Maths and Computer Science",
+        "graduated": "November 2020",
+        "description": ""
+      }
+
+    ],
+
+    "skills": [
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "Javascript",
+        "level": "60%"
+      },
+      {
+        "name": "C++",
+        "level": "60%"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "80%"
+      },
+      {
+        "name": "Reactjs",
+        "level": "80%"
+      },
+      {
+        "name": "Nodejs",
+        "level": "80%"
+      },
+      {
+        "name": "Databases (MySQL)",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      
+      {
+        "name": "PHP",
+        "level": "60%"
+      },
+      {
+        "name": "HTML",
+        "level": "85%"
+      }
+
+    ]
+  }
+  
+  }
